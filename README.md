@@ -37,6 +37,12 @@ The page includes a cinematic loading screen, HLS video hero, floating navigatio
 
 ## Preview
 
+Live demo:
+
+```text
+https://ahmed-ali-portfolio-amber.vercel.app
+```
+
 ```bash
 npm install
 npm run dev
@@ -70,6 +76,16 @@ npm run preview
 ## Author
 
 Built for Ahmed Ali.
+
+## Suggested GitHub Topics
+
+```text
+react typescript vite tailwindcss portfolio gsap framer-motion hlsjs responsive-design frontend
+```
+
+## License
+
+This project is available under the MIT License. See [LICENSE](LICENSE).
 
 <p align="center">
   <img
