@@ -1,6 +1,6 @@
-# Project Title
+# Ahmed Ali Portfolio
 
-Short description of the project and what problem it solves.
+Personal interactive portfolio and projects showcase by Ahmed Alighori.
 
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-blue)
@@ -38,7 +38,7 @@ A concise explanation of the project, goals, and audience.
 Clone the repo and install dependencies:
 
 ```bash
-git clone https://github.com/yourname/your-repo.git
+git clone https://github.com/AHMEDALIGHORI/ahmed-ali-portfolio.git
 cd your-repo
 pnpm install
 # or
@@ -98,7 +98,7 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 ## Contact
 
-Project maintainer — replace with your name and contact info.
+Project maintainer — Ahmed Alighori — https://github.com/AHMEDALIGHORI
 
 ---
 
